@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jao8&layout=compact&langs_count=5&hide=java,css&theme=aura"/>
 </div>
 
-<div style="">
+<div style="display: flex; justify-content:center">
   <br>
   <div style="display: inline_block">
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
