@@ -17,10 +17,6 @@
   <img align="center" alt="Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
   <img align="center" alt="Angular" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
 
+  ![Snake animation](https://github.com/jao8/jao8/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
-  
-  ##
-  
- 
-    ![Snake animation](https://github.com/jao8/jao8/blob/output/github-contribution-grid-snake.svg)
- 
