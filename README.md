@@ -21,7 +21,5 @@
   </div>
   
   ##
-  <div style="display: none">
-    ![Snake animation](https://github.com/jao8/jao8/blob/output/github-contribution-grid-snake.svg)
-  </div>
+
 </div>
