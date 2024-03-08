@@ -1,11 +1,11 @@
 ## Prazer, João!
+<!--
 
 <div align="center">
   <a href="https://github.com/jao8">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jao8&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jao8&layout=compact&langs_count=5&hide=java,css&theme=aura"/>
 </div>
-
 <div style="display: flex; justify-content:center; text-align:center;">
   <br>
   <div style="display: inline_block">
